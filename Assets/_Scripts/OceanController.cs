@@ -3,7 +3,7 @@ using System.Collections;
 
 public class OceanController : MonoBehaviour {
 	//PUBLIC INSTANCE VARIABLES
-	public float speed = 5;
+	public float speed = 5f;
 
 	//PRIVATE INSTANCE VARIABLES
 	private Transform _transform;
